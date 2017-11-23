@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="checkBoxDemo.TC004_checkBoxDemo_multiBox">
+      <class name="radioButtonDemo.TC005_radioButtonDemo">
         <methods>
-          <include name="setUp"/>
-          <include name="checkBoxDemo_multiBox"/>
+          <include name="radioButtonDemo"/>
           <include name="endTest"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- checkBoxDemo.TC004_checkBoxDemo_multiBox -->
+      </class> <!-- radioButtonDemo.TC005_radioButtonDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
