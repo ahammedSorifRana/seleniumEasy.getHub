@@ -37,13 +37,11 @@ public class radioButtonDemo_multiButton extends TestBase {
 		}
 	public String getResultText() {
 		 String res = getResult.getText();
-		 System.out.println(res);
 		 return res;
 		}
 	public void verifyDispaly(String optionName1,String optionName2) {
 		try {
 			String  outPut = "Sex : "+optionName1+ "\n" +"Age group: "+optionName2;
-			System.out.println(outPut);
 			Assert.assertEquals(true,getResultText().equalsIgnoreCase(outPut) );
 		} catch (Exception e) {
 			System.out.println("Redio Button Mul Fail" + e.getMessage());
