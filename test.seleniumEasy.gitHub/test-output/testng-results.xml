@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9029" started-at="2017-11-23T18:26:32Z" finished-at="2017-11-23T18:26:41Z">
+  <suite name="Default suite" duration-ms="9657" started-at="2017-11-25T02:07:24Z" finished-at="2017-11-25T02:07:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9029" started-at="2017-11-23T18:26:32Z" finished-at="2017-11-23T18:26:41Z">
-      <class name="radioButtonDemo.TC005_radioButtonDemo">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:radioButtonDemo.TC005_radioButtonDemo@4f933fd1]" name="setUp" is-config="true" duration-ms="8072" started-at="2017-11-23T13:26:32Z" finished-at="2017-11-23T13:26:40Z">
+    <test name="Default test" duration-ms="9657" started-at="2017-11-25T02:07:24Z" finished-at="2017-11-25T02:07:34Z">
+      <class name="radioButtonDemo.TC006_radioButtonDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:radioButtonDemo.TC006_radioButtonDemo@4f933fd1]" name="setUp" is-config="true" duration-ms="8200" started-at="2017-11-24T21:07:24Z" finished-at="2017-11-24T21:07:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="radioButtonDemo()[pri:0, instance:radioButtonDemo.TC005_radioButtonDemo@4f933fd1]" name="radioButtonDemo" duration-ms="901" started-at="2017-11-23T13:26:40Z" finished-at="2017-11-23T13:26:41Z">
+        <test-method status="PASS" signature="radioButtonDemo()[pri:0, instance:radioButtonDemo.TC006_radioButtonDemo@4f933fd1]" name="radioButtonDemo" duration-ms="1316" started-at="2017-11-24T21:07:32Z" finished-at="2017-11-24T21:07:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- radioButtonDemo -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:radioButtonDemo.TC005_radioButtonDemo@4f933fd1]" name="endTest" is-config="true" duration-ms="42" started-at="2017-11-23T13:26:41Z" finished-at="2017-11-23T13:26:41Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:radioButtonDemo.TC006_radioButtonDemo@4f933fd1]" name="endTest" is-config="true" duration-ms="125" started-at="2017-11-24T21:07:34Z" finished-at="2017-11-24T21:07:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
-      </class> <!-- radioButtonDemo.TC005_radioButtonDemo -->
+      </class> <!-- radioButtonDemo.TC006_radioButtonDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

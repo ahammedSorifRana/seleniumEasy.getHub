@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="radioButtonDemo.TC005_radioButtonDemo">
+      <class name="radioButtonDemo.TC006_radioButtonDemo">
         <methods>
           <include name="radioButtonDemo"/>
           <include name="endTest"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- radioButtonDemo.TC005_radioButtonDemo -->
+      </class> <!-- radioButtonDemo.TC006_radioButtonDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
