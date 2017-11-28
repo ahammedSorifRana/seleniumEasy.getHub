@@ -32,8 +32,7 @@ public class checkBoxDemo_single extends TestBase {
 				} 
 			catch (Exception e) {
 				System.out.println("CheckBoxDemo_single error : " +e.getMessage());
-				}
-		
+			}
 		}
 	public void checkBoxDemoFinal() {
 		navCheckBox();
